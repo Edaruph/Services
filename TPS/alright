@@ -1,0 +1,7 @@
+local Hwid = {
+    [1] = "A2E738EF-32C3-4438-BEB9-571DD51A9D84",
+    ["A2E738EF-32C3-4438-BEB9-571DD51A9D84"] = 1, --ben
+}
+local Key = {
+    [1] = "1w4N8I-u8TbZo-TZncx1-7cLGqa",
+}
